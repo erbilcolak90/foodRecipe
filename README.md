@@ -542,32 +542,12 @@ requestBody: {}
 ---
 
 
-
-    "id": "63ae027edef2861547e6f7e0",
-    "name": "mercimek",
-    "pictureURL": "https://www.aygingurmimg/urun/59u-.jpg",
-    "ingredientCategory": [
-        "63ade61677f797086d8f44ea",
-        "63ade62b77f797086d8f44ec",
-        "63ade63b77f797086d8f44ed"
-    ],
-    "foodCategory": [
-        "63ae01e9def2861547e6f7d9",
-        "63ae01ffdef2861547e6f7dd",
-        "63ae0205def2861547e6f7de"
-    ],
-    "createDate": "2022-12-29T21:11:26.449+00:00",
-    "deleted": false
-}
-````
-
----
-
 ## Add USer
 
 ### Request
 
 ````
+
 method: POST
 url: /user/addUser
 requestSample: herokuapp.com/user/addUser
@@ -577,7 +557,8 @@ requestBody: {
     surname: String ,
     username : String,
     password : String
-}
+    }
+
 ````
 
 ### Response
