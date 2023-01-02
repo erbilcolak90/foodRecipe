@@ -4,7 +4,9 @@ Bu proje, kullanıcıların yemek yapmak istedikleri malzemeleri seçip, seçti�
 
 ### Postman Collections
 
-skjgfskjglskj
+[Click Here For Postman Collection.zip](https://github.com/erbilcolak90/foodRecipe/files/10333790/Kitchen.postman_collection.zip)
+
+
 
 ## Entities
 - Ingredient
